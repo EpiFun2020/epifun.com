@@ -1,0 +1,70 @@
+####################################################
+####################################################
+##     ______ _____ _____ ______ _    _ _   _     ##
+##    |  ____|  __ \_   _|  ____| |  | | \ | |    ##
+##    | |__  | |__) || | | |__  | |  | |  \| |    ##
+##    |  __| |  ___/ | | |  __| | |  | | . ` |    ##
+##    | |____| |    _| |_| |    | |__| | |\  |    ##
+##    |______|_|   |_____|_|     \____/|_| \_|    ##
+##                                                ##
+####################################################
+######################## LIENS UTILES ##############
+
+
+EPIFUN : ``https://epifun.com``
+
+*Mimos*
+iONISx : ``https://ionisx.com``
+
+*Emploi du temps*
+Chronos : ``http://chronos.epita.net``  
+iChronos : ``https://ichronos.net`` 
+EPILIFE (iOS) : ``https://itunes.apple.com/fr/app/epilife/id437469369``  
+
+*Annales*
+Redux : ``https://redux.epita.cf`` 
+Mastercorp ``: http://mastercorp.epita.eu``
+EpiPortal* : ``https://epiportal.com``
+Epinnal : ``https://github.com/Epinnal`` 
+
+*Cours*
+Algo : ``http://algo-td.infoprepa.epita.fr/algo``
+Archi : ``http://debug-pro.com/epita``
+Prog : ``https://wiki-prog.infoprepa.epita.fr``
+Projet Voltaire : ``https://www.projet-voltaire.fr``
+
+*Note*
+Pegasus : ``https://prepa-epita.helvetius.net/pegasus``
+
+*Quote*
+Epiquote : ``http://epiquote.fr``
+
+*Fun*
+Vizigrou : ``http://vizigr0u.fooo.fr/epita``
+Segfault :``fb.me/Segfolt``
+EpiFamily :``fb.me/groups/EpiFamily``
+
+*Hébergement*
+Dyjix : ``https://dyjix.eu/edu.php``
+
+*Entreprise (stage, CDD)*
+EPITA Entreprise : ``epita.net``
+
+*Carte VJ-KB*
+EPITA Map : ``http://map.epita.eu/``
+
+*Internationnal (S4, ING3)*
+Odyssée : ``http://odyssee.epita.fr``
+
+*Com (forums, salons)*
+Intracom : ``http://intracom.epita.fr``
+
+*Rendu des TP*
+ACDC : ``https://acdc.cri.epita.net/login``
+ASM : ``rendu via GIT``
+ACU : ``rendu via GIT``
+YAKA : ``rendu via GIT``
+
+*Gestion des comptes*
+CRI (trombi) : ``https://intra.cri.epita.net``
+Bocal (licence) : ``https://console.bocal.org``
